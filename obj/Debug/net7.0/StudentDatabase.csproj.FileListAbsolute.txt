@@ -1,0 +1,15 @@
+/Users/tomk/Projects/StudentDatabase/bin/Debug/net7.0/StudentDatabase
+/Users/tomk/Projects/StudentDatabase/bin/Debug/net7.0/StudentDatabase.deps.json
+/Users/tomk/Projects/StudentDatabase/bin/Debug/net7.0/StudentDatabase.runtimeconfig.json
+/Users/tomk/Projects/StudentDatabase/bin/Debug/net7.0/StudentDatabase.dll
+/Users/tomk/Projects/StudentDatabase/bin/Debug/net7.0/StudentDatabase.pdb
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.csproj.AssemblyReference.cache
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.AssemblyInfoInputs.cache
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.AssemblyInfo.cs
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.dll
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/refint/StudentDatabase.dll
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.pdb
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/StudentDatabase.genruntimeconfig.cache
+/Users/tomk/Projects/StudentDatabase/obj/Debug/net7.0/ref/StudentDatabase.dll
